@@ -18,7 +18,7 @@
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
     
 
-# [![Contributors](https://img.shields.io/badge/Contributors-2-lawngreen.svg?style=flat-square)](#contributors-)
+# [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
 Available at :  <b><i>[www.Yoshitha.lk](https://www.Yoshitha.lk)</i></b>
 
